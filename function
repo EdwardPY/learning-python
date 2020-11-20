@@ -1,0 +1,5 @@
+def word(x):
+    return x[::-1]
+
+text = word('hello world')
+print(text)
